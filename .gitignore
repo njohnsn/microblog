@@ -32,6 +32,9 @@ MANIFEST
 *.spec
 
 # Installer logs
+
+# Ignore logs directory
+logs/
 pip-log.txt
 pip-delete-this-directory.txt
 
