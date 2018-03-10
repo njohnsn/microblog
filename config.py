@@ -15,6 +15,6 @@ class Config(object):
     MAIL_PASSWORD = os.environ.get('MAIL_PASSWORD')
     ADMINS = ['neil-johnson@uiowa.edu']
     
-    
+    POSTS_PER_PAGE = 3    
          
 
